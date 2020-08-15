@@ -1,0 +1,48 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.navbar-fixed nav {
+    max-width: 1200px;
+}
+
+
+.section-search input {
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: #f4f4f4 3px solid !important;
+}
+
+
+.section-follow .fa-4x {
+    margin:5px 10px;
+    font-size: 3em;
+}
+
+
+.btn {
+background-color: #2196F3;
+}
+
+.btn:hover {
+background-color: #61b1f2;
+}
+
+ 
+/* label underline focus color */
+.input-field input:focus,
+textarea:focus {
+    border-bottom: 1px solid #2196F3 !important;
+}
+
+
+.caption h5{
+    text-shadow: 1px 1px #636363;
+}
+
+.card-panel h5 {
+    font-size: 1.3rem;
+    font-weight: 700;
+}
